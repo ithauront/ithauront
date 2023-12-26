@@ -33,3 +33,13 @@
 
 <hr/>
 
+<h2 align="center">⚒️ Languages and Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=js,typescript,html,css,git,github,vscode" /><br>
+</div>
+
+<br/>
+<hr/>
+
+
