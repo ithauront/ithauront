@@ -45,7 +45,7 @@
 <div align="center">
   <h2>🌟 My Contributions 🌟</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/ithauront/ithauront/blob/output/github-contribution-grid-snake.svg"/>
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
   
   <br/><br/><br/>
 </div>
