@@ -45,7 +45,7 @@
 <div align="center">
   <h2>🌟 My Contributions 🌟</h2>
   <br>
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+<img alt="snake eating my contributions" src="https://github.com/ithauront/ithauront/blob/output/github-contribution-grid-snake.svg"/>
   
   <br/><br/><br/>
 </div>
@@ -56,8 +56,9 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=ithauront&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ithauront&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+<div align=center> 
+  <img width=390 src="https://streak-stats.demolab.com/?user=ithauront&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+     <img width=390 src="https://github-readme-stats.vercel.app/api?username=ithauront&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ithauront&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
